@@ -68,15 +68,14 @@
     background-position: center;
     background-repeat: no-repeat; 
     position: absolute;
-    top: 25% ;
-    margin-left: 2%;
+    top: 34% ;
     padding: 50px;
     background-color: #f0f0f0;
     backdrop-filter: blur(10px);
     border: 1px solid #ca8a03;
     box-shadow: 0 0 40px rgba(8,7,16,0.6);
     border-radius: 10%;
-    width: auto;
+    width: 288px;
     height: 500px ;
   }
   
@@ -84,8 +83,8 @@
     background-color: transparent ;
     border: none;
     position: absolute;
-    top: 22% ;
-    right: 9%;
+    top: 21% ;
+    right: 8%;
     color: #ca8a03 ;
   }
   .text-success {
@@ -111,7 +110,7 @@ color: #000000;
 background-color: #ffffff;
 padding: 4px 12px;
 border-radius: 10px;
-margin-left: 10px;
+margin-left: -46px;
 font-weight: bold;
 border: solid 1px;
 }
@@ -144,7 +143,7 @@ font-weight: bold;
 }
 .form-control{
     height: 30px;
-    width:80% ;
+    width:85% ;
     border: solid 2px #ca8a03;
     border-radius: 15px;
     margin-top: 15%;
