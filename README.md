@@ -1,36 +1,24 @@
-# occupancy_proj
+************************To set up and run this project locally, follow these steps: ********************************************
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+git clone <repository-url>	
+cd building-occupancy-dashboard
 npm install
-```
+npm run serve
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
+*********** The template includes: ***********
 
-### Compile and Minify for Production
+A room-count-box component to display the number of rooms.
+A filter-and-search-bar component for filtering and searching rooms.
+A pie chart component (pie_chart) to visualize the occupancy percentage.
+A list of floors with buttons to select each floor.
+A list of rooms on the selected floor with their occupancy status.
 
-```sh
-npm run build
-```
 
-### Lint with [ESLint](https://eslint.org/)
+From loading the site to the final result, the code initializes the application, loads data from external sources, processes the data to compute occupancy percentages, and renders the UI dynamically. User interactions with the search bar and filter options further refine the displayed data, providing a responsive and interactive user experience.
 
-```sh
-npm run lint
-```
-# Projet SpinalCom
+
+
+
+
+

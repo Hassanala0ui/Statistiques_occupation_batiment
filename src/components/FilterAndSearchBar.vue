@@ -77,6 +77,7 @@
     border-radius: 10%;
     width: 288px;
     height: 500px ;
+    justify-content : space in between;
   }
   
   .search {
