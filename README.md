@@ -1,6 +1,6 @@
 ************************To set up and run this project locally, follow these steps: ********************************************
 
-git clone <repository-url>	
+git clone <https://github.com/Hassanala0ui/Statistiques_occupation_batiment>	
 cd building-occupancy-dashboard
 npm install
 npm run serve
